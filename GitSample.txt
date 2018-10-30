@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 Hi ho hi
 =======
 Hi di hi
->>>>>>> develop di commit
+
